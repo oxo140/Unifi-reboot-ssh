@@ -17,12 +17,12 @@ Ce script PowerShell permet d'automatiser le redémarrage des bornes Wi-Fi UniFi
 ## Utilisation  
 1. Clonez ce dépôt :  
    ```bash
-   git clone https://github.com/nom-utilisateur/unifi-reboot-script.git
+   git clone https://github.com/oxo140/Unifi-reboot-ssh/blob/main/reboot%20unifi%20-%20Exemple.git
    ```  
 2. Modifiez les paramètres du script (adresses IP, identifiants, etc.).  
 3. Exécutez le script via PowerShell :  
    ```powershell
-   .\unifi_reboot.ps1
+   .\reboot unifi - Exemple.ps1
    ```  
 
 ## Remarques  
