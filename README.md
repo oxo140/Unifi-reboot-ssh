@@ -2,6 +2,7 @@ Utilisation :
 
 Lancez le script avec :
 ```
+chmod +x reboot-unifi.sh
 ./reboot-unifi.sh
 ```
 
