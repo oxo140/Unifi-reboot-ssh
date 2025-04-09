@@ -2,8 +2,8 @@ Utilisation :
 
 Lancez le script avec :
 ```
-chmod +x reboot-unifi.sh
-./reboot-unifi.sh
+chmod +x RebootBorne.sh
+./RebootBorne.sh
 ```
 
 Le script effectue les actions suivantes :
